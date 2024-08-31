@@ -1,0 +1,20 @@
+{
+  "name": "bbc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.19.0",
+    "cuid": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "moment": "^2.30.1",
+    "pg": "^8.12.0",
+    "playwright": "^1.46.1"
+  }
+}
